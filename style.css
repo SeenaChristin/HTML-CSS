@@ -680,6 +680,7 @@ background: linear-gradient(0deg, rgba(23,9,4,1) 25%, rgba(181,128,114,1) 100%);
         flex-direction: row;
         margin: 0;
         justify-content: space-evenly;
+	padding-top: 50px;    
 
     }
     #contact .contact-item{
